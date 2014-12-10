@@ -3,4 +3,4 @@ ylang-starter
 
 --)Python
 #)python_course302001
-·è¿ñµÄPython£º¿ìËÙÈëÃÅ¾«½²
+ç–¯ç‹‚çš„Pythonï¼šå¿«é€Ÿå…¥é—¨ç²¾è®²
